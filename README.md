@@ -24,3 +24,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Iron Crown ex.
 - Raging Bolt ex.
 - Lugia VSTAR SIT.
+- Gengar ex.

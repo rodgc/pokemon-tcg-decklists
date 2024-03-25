@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2024-03-25
+
+### Added
+
+- Temporal Forces:
+  - Gengar ex.
+
 ## [1.0.1] - 2024-03-22
 
 ### Added
