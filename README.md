@@ -32,3 +32,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Aegislash
 - Sinistcha
 - Luxray ex
+- Greninja ex
