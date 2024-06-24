@@ -33,3 +33,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Sinistcha
 - Luxray ex
 - Greninja ex
+- Dragapult ex
