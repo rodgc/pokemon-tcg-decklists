@@ -6,25 +6,25 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 
 ### Obsidian Flames
 
-- Mimikyu & Alakazam ex.
+- Mimikyu & Alakazam ex
 
 ### Paradox Rift
 
-- Roaring Moon ex.
+- Roaring Moon ex
 
 ### Paldean Fates
 
-- Psychic Elegance.
-- Tsareena ex.
+- Psychic Elegance
+- Tsareena ex
 
 ### Temporal Forces
 
-- Aegislash.
-- Great Tusk.
-- Iron Crown ex.
-- Raging Bolt ex.
-- Lugia VSTAR SIT.
-- Gengar ex.
+- Aegislash
+- Great Tusk
+- Iron Crown ex
+- Raging Bolt ex
+- Lugia VSTAR SIT
+- Gengar ex
 
 ### Twilight Masquerade
 
@@ -34,3 +34,9 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Luxray ex
 - Greninja ex
 - Dragapult ex
+
+### Shrouded Fable
+
+- Gengar ex
+- Loyal Three
+- 2024 EUIC Charizard ex

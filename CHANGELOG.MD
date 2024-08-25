@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2024-08-25
+
+### Added
+
+- Shrouded Fable
+
+  - Gengar ex.
+  - Loyal Three.
+  - 2024 EUIC Charizard ex.
+
+- Temporal Forces:
+  - Dragapult ex.
+
 ## [1.0.2] - 2024-03-25
 
 ### Added
