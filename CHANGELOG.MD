@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2024-09-05
+
+### Added
+
+- Shrouded Fable
+  - Gengar ex v2.
+
 ## [1.0.3] - 2024-08-25
 
 ### Added
