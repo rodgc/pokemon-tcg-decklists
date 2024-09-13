@@ -38,6 +38,10 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 ### Shrouded Fable
 
 - Gengar ex
-- Gengar ex v2.
+- Gengar ex v2
 - Loyal Three
 - 2024 EUIC Charizard ex
+
+### Stellar Crown
+
+- Galvantula ex
