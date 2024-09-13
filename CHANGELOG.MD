@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
 - Stellar Crown
   - Galvantula ex.
   - Terapagos ex.
+  - Hydrapple ex.
 
 ## [1.0.4] - 2024-09-05
 
