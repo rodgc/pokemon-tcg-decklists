@@ -45,3 +45,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 ### Stellar Crown
 
 - Galvantula ex
+- Terapagos ex
