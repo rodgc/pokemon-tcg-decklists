@@ -47,3 +47,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Galvantula ex
 - Terapagos ex
 - Hydrapple ex
+- Salazzle

@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
   - Galvantula ex.
   - Terapagos ex.
   - Hydrapple ex.
+  - Salazzle.
 
 ## [1.0.4] - 2024-09-05
 
