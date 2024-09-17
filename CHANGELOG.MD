@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Stellar Crown
   - Charizard ex.
+  - Dragapult ex.
 
 ## [1.0.5] - 2024-09-13
 
