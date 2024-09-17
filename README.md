@@ -48,3 +48,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Terapagos ex
 - Hydrapple ex
 - Salazzle
+- Charizard ex
