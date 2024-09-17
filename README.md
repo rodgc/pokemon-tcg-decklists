@@ -51,3 +51,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Charizard ex
 - Dragapult ex
 - Gardevoir ex
+- Gardevoir ex v2

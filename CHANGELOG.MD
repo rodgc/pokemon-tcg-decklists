@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
   - Charizard ex.
   - Dragapult ex.
   - Gardevoir ex.
+  - Gardevoir ex v2.
 
 ## [1.0.5] - 2024-09-13
 
