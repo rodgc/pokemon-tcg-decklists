@@ -58,3 +58,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Iron Leaves ex
 - Tapu Koko ex
 - Ceruledge ex
+- Pikachu ex

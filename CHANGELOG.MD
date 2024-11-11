@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
   - Iron Leaves ex.
   - Tapu Koko ex.
   - Ceruledge ex.
+  - Pikachu ex.
 
 ## [1.0.6] - 2024-09-17
 
