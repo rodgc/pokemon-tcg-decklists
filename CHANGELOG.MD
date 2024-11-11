@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Surging Sparks
   - Iron Leaves ex.
+  - Tapu Koko ex.
 
 ## [1.0.6] - 2024-09-17
 
