@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
   - Tapu Koko ex.
   - Ceruledge ex.
   - Pikachu ex.
+  - Sylveon ex.
 
 ## [1.0.6] - 2024-09-17
 
