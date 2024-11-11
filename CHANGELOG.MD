@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2024-11-11
+
+- Surging Sparks
+  - Iron Leaves ex.
+
 ## [1.0.6] - 2024-09-17
 
 - Stellar Crown
