@@ -60,3 +60,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Ceruledge ex
 - Pikachu ex
 - Sylveon ex
+- Archaludon ex
