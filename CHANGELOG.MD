@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Surging Sparks
   - Archaludon ex.
+  - Gardevoir ex.
 
 ## [1.0.7] - 2024-11-11
 
