@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
   - Kingambit Iron Valiant ex.
   - Kingambit Uxie.
   - Kingambit Starmie.
+  - Ceruledge ex v2.
 
 ## [1.0.7] - 2024-11-11
 

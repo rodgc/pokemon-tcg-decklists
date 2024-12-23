@@ -66,3 +66,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Kingambit Iron Valiant ex
 - Kingambit Uxie
 - Kingambit Starmie
+- Ceruledge ex v2
