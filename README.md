@@ -65,3 +65,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Lake Trio
 - Kingambit Iron Valiant ex
 - Kingambit Uxie
+- Kingambit Starmie

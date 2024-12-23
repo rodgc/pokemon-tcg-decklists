@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
   - Lake Trio.
   - Kingambit Iron Valiant ex.
   - Kingambit Uxie.
+  - Kingambit Starmie.
 
 ## [1.0.7] - 2024-11-11
 
