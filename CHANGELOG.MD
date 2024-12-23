@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
   - Gardevoir ex.
   - Lake Trio.
   - Kingambit Iron Valiant ex.
+  - Kingambit Uxie.
 
 ## [1.0.7] - 2024-11-11
 
