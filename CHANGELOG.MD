@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 
 - Prismatic Evolutions
   - Eeveelution.
+  - Draganoir.
 
 ## [1.0.8] - 2024-12-11
 
