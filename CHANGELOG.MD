@@ -2,7 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2025-01-23
+
+### Added
+
+- Prismatic Evolutions
+  - Eeveelution.
+
 ## [1.0.8] - 2024-12-11
+
+### Added
 
 - Surging Sparks
   - Archaludon ex.
@@ -15,6 +24,8 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.7] - 2024-11-11
 
+### Added
+
 - Surging Sparks
   - Iron Leaves ex.
   - Tapu Koko ex.
@@ -23,6 +34,8 @@ All notable changes to this project will be documented in this file.
   - Sylveon ex.
 
 ## [1.0.6] - 2024-09-17
+
+### Added
 
 - Stellar Crown
   - Charizard ex.
