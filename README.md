@@ -73,3 +73,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Eeveelution
 - Draganoir
 - Regidrago VSTAR
+- Gardevoir ex

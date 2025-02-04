@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
   - Eeveelution.
   - Draganoir.
   - Regidrago VSTAR.
+  - Gardevoir ex.
 
 ## [1.0.8] - 2024-12-11
 
