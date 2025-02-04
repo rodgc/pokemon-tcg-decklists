@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
   - Gardevoir ex.
   - Lugia Archeops.
   - Ceruledge ex.
+  - Mimikyu & Ogerpon ex.
 
 ## [1.0.8] - 2024-12-11
 
