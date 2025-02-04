@@ -77,3 +77,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Lugia Archeops
 - Ceruledge ex
 - Mimikyu & Ogerpon ex
+- Alakazam ex
