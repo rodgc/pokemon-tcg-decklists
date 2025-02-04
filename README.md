@@ -75,3 +75,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Regidrago VSTAR
 - Gardevoir ex
 - Lugia Archeops
+- Ceruledge ex
