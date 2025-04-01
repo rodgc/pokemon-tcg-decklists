@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Journey Together
   - Ceruledge ex.
+  - Tera Box.
 
 ## [1.1.0] - 2025-01-23
 
