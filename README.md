@@ -87,3 +87,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Hop's Zacian ex
 - Feraligatr
 - Gardevoir ex
+- Azulmarill

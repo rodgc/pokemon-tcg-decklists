@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
   - Hop's Zacian ex.
   - Feraligatr.
   - Gardevoir ex.
+  - Azulmarill.
 
 ## [1.1.0] - 2025-01-23
 
