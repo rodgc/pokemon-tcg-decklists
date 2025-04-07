@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
   - Draganoir.
   - Hop's Zacian ex.
   - Feraligatr.
+  - Gardevoir ex.
 
 ## [1.1.0] - 2025-01-23
 
