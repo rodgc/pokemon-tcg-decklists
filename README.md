@@ -88,3 +88,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Feraligatr
 - Gardevoir ex
 - Azulmarill
+- Salamence ex

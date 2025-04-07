@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
   - Feraligatr.
   - Gardevoir ex.
   - Azulmarill.
+  - Salamence ex.
 
 ## [1.1.0] - 2025-01-23
 
