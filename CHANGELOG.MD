@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
   - Tera Box.
   - Draganoir.
   - Hop's Zacian ex.
+  - Feraligatr.
 
 ## [1.1.0] - 2025-01-23
 

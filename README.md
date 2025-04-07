@@ -85,3 +85,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Tera Box
 - Draganoir
 - Hop's Zacian ex
+- Feraligatr
