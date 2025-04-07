@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
   - Ceruledge ex.
   - Tera Box.
   - Draganoir.
+  - Hop's Zacian ex.
 
 ## [1.1.0] - 2025-01-23
 
