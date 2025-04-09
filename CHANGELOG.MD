@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
   - Salamence ex.
   - Lillie's Tera Toolbox.
   - Raging Bolt ex.
+  - Mamoswine ex.
 
 ## [1.1.0] - 2025-01-23
 
