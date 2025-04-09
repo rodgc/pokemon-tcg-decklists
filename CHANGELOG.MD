@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
   - Azulmarill.
   - Salamence ex.
   - Lillie's Tera Toolbox.
+  - Raging Bolt ex.
 
 ## [1.1.0] - 2025-01-23
 

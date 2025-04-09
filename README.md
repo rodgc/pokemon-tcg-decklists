@@ -90,3 +90,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Azulmarill
 - Salamence ex
 - Lillie's Tera Toolbox
+- Raging Bolt ex
