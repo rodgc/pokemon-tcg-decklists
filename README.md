@@ -105,3 +105,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Grimmlass v2
 - Dragazard
 - Ethan's Typhlosion
+- Dragapult ex

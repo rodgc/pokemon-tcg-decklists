@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
   - Grimmlass v2.
   - Dragazard.
   - Ethan's Typhlosion.
+  - Dragapult ex.
 
 ## [1.0.10] - 2025-03-31
 
