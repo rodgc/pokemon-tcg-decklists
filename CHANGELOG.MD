@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
   - Steven Rival.
   - Grimmlass v2.
   - Dragazard.
+  - Ethan's Typhlosion.
 
 ## [1.0.10] - 2025-03-31
 
