@@ -16,6 +16,7 @@ All notable changes to this project will be documented in this file.
   - Dragazard.
   - Ethan's Typhlosion.
   - Dragapult ex.
+  - Cynthia's Garchomp.
 
 ## [1.0.10] - 2025-03-31
 
