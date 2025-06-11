@@ -101,3 +101,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Gardevoir ex
 - Marnie Rival
 - Grimmlass
+- Steven Rival

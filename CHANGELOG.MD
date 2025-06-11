@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
   - Gardevoir ex.
   - Marnie Rival.
   - Grimmlass.
+  - Steven Rival.
 
 ## [1.0.10] - 2025-03-31
 
