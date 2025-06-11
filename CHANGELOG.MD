@@ -17,6 +17,7 @@ All notable changes to this project will be documented in this file.
   - Ethan's Typhlosion.
   - Dragapult ex.
   - Cynthia's Garchomp.
+  - Ho-Oh Armarouge.
 
 ## [1.0.10] - 2025-03-31
 

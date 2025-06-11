@@ -107,3 +107,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Ethan's Typhlosion
 - Dragapult ex
 - Cynthia's Garchomp
+- Ho-Oh Armarouge
