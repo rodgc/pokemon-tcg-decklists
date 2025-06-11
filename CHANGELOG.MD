@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
   - Dragapult ex.
   - Cynthia's Garchomp.
   - Ho-Oh Armarouge.
+  - Gholdengo.
 
 ## [1.0.10] - 2025-03-31
 

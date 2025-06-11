@@ -108,3 +108,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Dragapult ex
 - Cynthia's Garchomp
 - Ho-Oh Armarouge
+- Gholdengo
