@@ -110,3 +110,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Ho-Oh Armarouge
 - Gholdengo
 - Great Tusk Mill
+- Blissey
