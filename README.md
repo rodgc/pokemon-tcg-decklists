@@ -92,3 +92,7 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Lillie's Tera Toolbox
 - Raging Bolt ex
 - Mamoswine ex
+
+### Destined Rivals
+
+- Ethan’s Ho-Oh ex

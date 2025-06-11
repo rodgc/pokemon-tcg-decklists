@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.2.0] - 2025-03-31
+## [1.0.11] - 2025-05-11
+
+- Destined Rivals
+  - Ethan’s Ho-Oh ex.
+
+## [1.0.10] - 2025-03-31
 
 - Journey Together
   - Ceruledge ex.
@@ -17,7 +22,7 @@ All notable changes to this project will be documented in this file.
   - Raging Bolt ex.
   - Mamoswine ex.
 
-## [1.1.0] - 2025-01-23
+## [1.0.9] - 2025-01-23
 
 ### Added
 
