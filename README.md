@@ -98,3 +98,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Ethan’s Ho-Oh ex
 - Twin: Cynthia
 - Team Rocket's MewTwo ex
+- Gardevoir ex

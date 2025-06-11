@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
   - Ethan’s Ho-Oh ex.
   - Twin: Cynthia.
   - Team Rocket's MewTwo ex.
+  - Gardevoir ex.
 
 ## [1.0.10] - 2025-03-31
 
