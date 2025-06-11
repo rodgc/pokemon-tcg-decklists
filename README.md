@@ -109,3 +109,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Cynthia's Garchomp
 - Ho-Oh Armarouge
 - Gholdengo
+- Great Tusk Mill

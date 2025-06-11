@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
   - Cynthia's Garchomp.
   - Ho-Oh Armarouge.
   - Gholdengo.
+  - Great Tusk Mill.
 
 ## [1.0.10] - 2025-03-31
 
