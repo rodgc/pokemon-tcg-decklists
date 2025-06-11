@@ -103,3 +103,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Grimmlass
 - Steven Rival
 - Grimmlass v2
+- Dragazard

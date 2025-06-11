@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
   - Grimmlass.
   - Steven Rival.
   - Grimmlass v2.
+  - Dragazard.
 
 ## [1.0.10] - 2025-03-31
 
