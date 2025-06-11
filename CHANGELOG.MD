@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - Destined Rivals
   - Ethan’s Ho-Oh ex.
   - Twin: Cynthia.
+  - Team Rocket's MewTwo ex.
 
 ## [1.0.10] - 2025-03-31
 
