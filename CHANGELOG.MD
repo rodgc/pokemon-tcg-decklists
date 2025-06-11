@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
   - Twin: Cynthia.
   - Team Rocket's MewTwo ex.
   - Gardevoir ex.
+  - Marnie Riva.
 
 ## [1.0.10] - 2025-03-31
 

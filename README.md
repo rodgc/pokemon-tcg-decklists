@@ -99,3 +99,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 - Twin: Cynthia
 - Team Rocket's MewTwo ex
 - Gardevoir ex
+- Marnie Riva
