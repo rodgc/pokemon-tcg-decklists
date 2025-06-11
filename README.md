@@ -96,3 +96,4 @@ List of all my Decks on Pokemon TCG Online by Expansions.
 ### Destined Rivals
 
 - Ethan’s Ho-Oh ex
+- Twin: Cynthia
